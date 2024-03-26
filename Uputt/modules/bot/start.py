@@ -41,7 +41,7 @@ async def start(app, message):
     reply_markup = InlineKeyboardMarkup([
         [
             InlineKeyboardButton("Support", url="https://t.me/UputtSupport"),
-            InlineKeyboardButton("Channel", url="https://t.me/amneseey0u"),
+            InlineKeyboardButton("Channel", url="https://t.me/flukosaa"),
         ],
     ])
 
